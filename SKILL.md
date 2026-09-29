@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-skim-test-outliner
-description: "Structure documents around fractal headings that convey the complete thesis in 15 seconds." Use this when working on fitzpatrick skim test outliner.
+description: "Structure documents around fractal headings that convey the complete thesis in 15 seconds. Use this when working on fitzpatrick skim test outliner."
 category: "Writing & Communication"
 triggers:
   - "skim test outliner"
