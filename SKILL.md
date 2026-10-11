@@ -9,7 +9,7 @@ triggers:
   - "informative headings"
   - "executive scan"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
